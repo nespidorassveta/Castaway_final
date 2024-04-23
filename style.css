@@ -26,6 +26,10 @@ button {
   padding: 26px 50px 26px 50px;
 }
 
+input {
+  display:none;
+}
+
 .header-container {
   height: 67px;
 }
